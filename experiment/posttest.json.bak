@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$\\begin{bmatrix} 100 & 13.9869 & 26.5369 \\\\ 26.5369 & -33.1709 & -29.7082 \\\\ 48.772 & -23.465 & 35.839 \\end{bmatrix} ⋅ X = \\begin{bmatrix} 67.3986\\\\ 69.4181\\\\ 7.1902 \\end{bmatrix}$$ Perform pivoting.",
+      "qid": 1,
+      "option_a": "$$\\begin{bmatrix} 110 & 1.6219 & 16.1289 \\\\ 24.5619 & -30.0129 & -25.8212 \\\\ 41.-572 & 13.345 & -32.189 \\end{bmatrix} ⋅ X = \\begin{bmatrix} -61.1386\\\\ 64.3461\\\\ 6.9213 \\end{bmatrix}$$",
+      "option_b": "$$\\begin{bmatrix} 114 & -15.9162 & 29.6931 \\\\ 27.6359 & 31.0319 & -21.1022 \\\\ 44.221 & 27.645 & 29.389 \\end{bmatrix} ⋅ X = \\begin{bmatrix} 74.0136\\\\ 74.1281\\\\ -4.6702 \\end{bmatrix}$$",
+      "option_c": "$$\\begin{bmatrix} 100 & 13.9869 & 26.5369 \\\\ 26.5369 & -33.1709 & -29.7082 \\\\ 48.772 & -23.465 & 35.839 \\end{bmatrix} ⋅ X = \\begin{bmatrix} 67.3986\\\\ 69.4181\\\\ 7.1902 \\end{bmatrix}$$",
+      "option_d": "$$\\begin{bmatrix} -107 & -16.0461 & 17.2149 \\\\ 26.5369 & -33.1709 & -29.0172 \\\\ 14.2013 & -14.5721 & -27.631 \\end{bmatrix} ⋅ X = \\begin{bmatrix} -57.3216\\\\ 52.4115\\\\ 10.1021 \\end{bmatrix}$$",
+      "correct_option": "c"
+   },
+   {
+      "question": "$$\\begin{bmatrix} 100 & 13.9869 & 26.5369 \\\\ 26.5369 & -33.1709 & -29.7082 \\\\ 48.772 & -23.465 & 35.839 \\end{bmatrix} ⋅ X = \\begin{bmatrix} 67.3986\\\\ 69.4181\\\\ 7.1902 \\end{bmatrix} $$ Take the tolerance as 10-6. Start with initial huess solution [0 0 0]T. Perform Jacobi iteration and find X.",
+      "qid": 2,
+      "option_a": "$$\\begin{bmatrix} 1.4716 \\\\ -1.0183 \\\\ -2.4685 \\end{bmatrix} $$",
+      "option_b": "$$\\begin{bmatrix} -1.3116 \\\\ 1.5033 \\\\ -3.8675 \\end{bmatrix}$$",
+      "option_c": "$$ \\begin{bmatrix} 2.1316 \\\\ 1.3873 \\\\ -2.7214 \\end{bmatrix} $$",
+      "option_d": "$$ \\begin{bmatrix} 1.0136 \\\\ -1.3481 \\\\ -1.8345 \\end{bmatrix} $$",
+      "correct_option": "a"
+   }
+]
